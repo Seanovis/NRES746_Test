@@ -2,3 +2,5 @@
 
 ## Header 2
 plain text under heading
+
+$\frac{x}{y}$
